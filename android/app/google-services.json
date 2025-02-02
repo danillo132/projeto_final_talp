@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708347465486",
+    "project_id": "trabalho-final-talp",
+    "storage_bucket": "trabalho-final-talp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708347465486:android:6015cdbb50b76e9310915f",
+        "android_client_info": {
+          "package_name": "com.example.projeto_final_talp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAriG16Uxny-RCusZGD39fl-aigfzsufGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
